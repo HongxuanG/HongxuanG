@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 align="center">Hi there <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Guo Hongxuan</h2> 
+<h3 align="center">A passionate front-end developer from China</h3>
 
-<!--
-**HongxuanG/HongxuanG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HongxuanG&count_private=true&show_icons=true&theme=radical"></img>
 
-Here are some ideas to get you started:
+### :books: There is I have to do now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧐 Organize my own study notes
+* 🌱 Learn vue3 and the implementation principle of several vue3 features
+* 🏗️ Set up my own personal website (blog or otherwise)
+* 📝 Finish my exams
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongxuanG&layout=compact"></img>
+
+
+### :triangular_flag_on_post: Achieve strategic results
+
+* 🥇 Done with the [type-challenges](https://github.com/type-challenges/type-challenges)
+* 🥈 Published my own configuration file package
+* 🥉 Wrote technical articles about wechat applets how to obtaining user authorization
+
+
