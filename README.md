@@ -7,6 +7,7 @@
 
 * 🧐 Organize my own study notes
 * 🌱 Learn vue3 and the implementation principle of several vue3 features
+* 🌱 Implement a Mini-Webpack By myself
 * 🏗️ Set up my own personal website (blog or otherwise)
 * 📝 Finish my exams
 
