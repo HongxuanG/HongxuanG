@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HongxuanG&count_private=true&show_icons=true&theme=radical"></img>
 
-### :books: There is I have to do now
+### :books: Here is I have to do now
 
 * 🧐 Organize my own study notes
 * 🌱 Learn vue3 and the implementation principle of several vue3 features
