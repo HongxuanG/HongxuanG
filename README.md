@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Guo Hongxuan</h2> 
+<h2 align="center">Hi there <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Hongxuan Guo</h2> 
 <h3 align="center">A passionate front-end developer from China</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HongxuanG&count_private=true&show_icons=true&theme=radical"></img>
